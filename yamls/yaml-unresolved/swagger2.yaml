@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   description: |
 
-    Thiz is a sample Petstore server.  You can find
+    Thiz is a samplePetstore server.  You can find
     out more about Swaggr at
     [http://swagger.io](http://swagger.io) or on
     [irc.freenode.net, #swagger](http://swagger.io/irc/).
