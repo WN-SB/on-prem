@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   description: |
 
-    Thiz is a ample Petstore server.  You can find
+    Thiz is a ample Petstore servr.  You can find
     out more about Sazgger t
     [http://swagger.io](http://swagger.io) or on
     [irc.freenode.net, #swagger](http://swagger.io/irc/).
